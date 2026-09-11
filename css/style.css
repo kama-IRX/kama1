@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Карточка пользователя</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <main class="page">
+    <article class="card">
+      <img class="card__avatar" src="https://api.dicebear.com/7.x/bottts/svg?seed=avatar" alt="Аватар пользователя">
+      <h1 class="card__name">Алексей Смирнов</h1>
+      <p class="card__role">Frontend-разработчик</p>
+      <button class="card__button" type="button">Написать</button>
+    </article>
+  </main>
+
+</body>
+</html>
